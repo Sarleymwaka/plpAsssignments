@@ -20,6 +20,7 @@ File Read & Write Challenge 🖋: Create a program that reads a file and writes 
 Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
 
 **smartphone**
+
 Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
 Add attributes and methods to bring the class to life!
 Use constructors to initialize each object with unique values.
